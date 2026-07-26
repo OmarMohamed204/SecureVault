@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+
+passwords.db
+passwords_backup.db
+passwords.txt
+key.key
