@@ -73,3 +73,7 @@ The master password used for logging in is hashed with bcrypt because it never n
 Website passwords, however, must be shown to the user later. Because of that, they are encrypted using Fernet instead of being hashed. This allows the application to decrypt them only when the user explicitly requests to reveal a password.
 
 I also separated the project into multiple files instead of writing everything in one script. This makes the project easier to understand, maintain, and extend in the future.
+
+## Video Demo
+
+https://youtu.be/Q6cGe-lA7mM?si=UIZQOzBmPdpwmFwn
